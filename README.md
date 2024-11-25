@@ -3,7 +3,6 @@
 >[>Llinkedin Profile](https://www.linkedin.com/in/mohammad-r-al-salloum-b3476a317)
 
 I bend Electrons to make people's lives easier.
-
-line_length(integer, 200)
-
-*Also*, I'm currently on a learning journey to design innovative chips that enhance AI performance.
+*Also*, I'm currently on a learning journey
+to design innovative 
+chips that enhance AI performance.
