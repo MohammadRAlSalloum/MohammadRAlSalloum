@@ -2,6 +2,8 @@
 
 >[LinkedIn Profile](https://www.linkedin.com/in/mohammad-r-al-salloum-b3476a317)
 
+
+<img src="https://media.tenor.com/1uiGrSYrjCkAAAAM/elekid-pok%C3%A9mon-elekid.gif" alt="Alternate text" />
 <img src="https://media.tenor.com/1uiGrSYrjCkAAAAM/elekid-pok%C3%A9mon-elekid.gif" align="right">
 
 I bend Electrons to make people's lives easier.
