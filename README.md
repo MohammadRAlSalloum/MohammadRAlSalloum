@@ -3,7 +3,7 @@
 >[LinkedIn Profile](https://www.linkedin.com/in/mohammad-r-al-salloum-b3476a317)
 
 
-  <img src="[https://64.media.tumblr.com/e1f1c97123ae217eb731500e502e0083/tumblr_n9dxcikmIU1qc9zfzo7_r1_250.gif](https://media1.tenor.com/m/Sv3a2BBu69oAAAAd/elekid-elekid-uses-thunder.gif)" align="right">
+  <img src="https://64.media.tumblr.com/e1f1c97123ae217eb731500e502e0083/tumblr_n9dxcikmIU1qc9zfzo7_r1_250.gif](https://media1.tenor.com/m/Sv3a2BBu69oAAAAd/elekid-elekid-uses-thunder.gif](https://th.bing.com/th/id/R.d7e2fb30bae2ed898452caaaa94a77c2?rik=A39NfN%2fXxyt1cQ&pid=ImgRaw&r=0" align="right">
   </div>
 
 I bend Electrons to make people's lives easier.
