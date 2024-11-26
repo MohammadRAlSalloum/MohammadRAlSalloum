@@ -4,9 +4,8 @@
 
 
 <img src="https://media.tenor.com/1uiGrSYrjCkAAAAM/elekid-pok%C3%A9mon-elekid.gif" alt="Alternate text" align="right" />
-<img src="https://media.tenor.com/1uiGrSYrjCkAAAAM/elekid-pok%C3%A9mon-elekid.gif" align="right">
 
 I bend Electrons to make people's lives easier.
-
 *Also*, I'm currently on a learning journey
-to design innovative chips that enhance AI performance.
+to design innovative chips
+that enhance AI performance.
